@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Export from cleed/vdev (github.com/radulucut/cleed)</title>
+    <dateCreated>Tue, 28 Jan 2025 13:55:01 +0200</dateCreated>
+  </head>
+  <body>
+    <outline text="Books">
+      <outline text="A year of reading the world" description="196 countries, countless stories..." xmlUrl="https://ayearofreadingtheworld.com/feed/" />
+      <outline text="BOOK RIOT" description="Book Recommendations and Reviews" xmlUrl="https://bookriot.com/feed/" />
+      <outline text="Kirkus Reviews" description="Latest book reviews from Kirkus Reviews." xmlUrl="https://www.kirkusreviews.com/feeds/rss/" />
+      <outline text="Page Array – NewInBooks" description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" />
+      <outline text="So many books, so little time" description="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environm..." xmlUrl="https://reddit.com/r/books/.rss" />
+      <outline text="Wokeread" description="Books any time any day." xmlUrl="https://wokeread.home.blog/feed/" />
+    </outline>
+    <outline text="Business &amp; Economy">
+      <outline text="blog Archives - Brad Feld" xmlUrl="https://feld.com/archives/tag/blog/feed" />
+      <outline text="Smart Passive Income" description="Become the entrepreneur you want to be" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" />
+      <outline description="Start and Grow Your Business" xmlUrl="https://www.quicksprout.com/rss" />
+      <outline text="VentureBeat" description="Transformative tech coverage that matters" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" />
+      <outline text="Brad Feld" xmlUrl="https://feld.com/feed" />
+      <outline text="Business Insider" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=businessinsider" />
+      <outline text="Masters of Scale" description="&lt;p&gt;On Masters of Scale, iconic business leaders share lessons and strategies that have helped them grow the world&#39;s most fascinating companies. Founders, CEOs, and dynamic innovators join candid conve..." xmlUrl="https://rss.art19.com/masters-of-scale" />
+      <outline text="US Top News and Analysis" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" />
+      <outline text="Breaking News on Seeking Alpha" description="© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha&#39;s Terms of Use (https://about.seekingalpha.com/terms). Publishing this feed for public..." xmlUrl="https://seekingalpha.com/market_currents.xml" />
+      <outline text="Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" />
+      <outline text="Yahoo Finance" description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" />
+      <outline text="The Startup Junkies Podcast" description="The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concep..." xmlUrl="https://startupjunkie.libsyn.com/rss" />
+      <outline text="AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" />
+      <outline text="Hacker News: Front Page" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" />
+      <outline text="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" />
+      <outline text="This Week in Startups - Video" description="Every day, Jason Calacanis and Molly Wood cover startups, technology, markets, media, crypto, and the all the hottest topics in business and tech. They also interview the world’s greatest founders, ..." xmlUrl="http://feeds.feedburner.com/twistvid" />
+      <outline text="The Duct Tape Marketing Podcast" description="Insightful interviews with authors, experts, entrepreneurs, and thought leaders who share valuable marketing tips, growth strategies, and resources. Hosted by John Jantsch, one of America&#39;s top small ..." xmlUrl="https://ducttape.libsyn.com/rss" />
+      <outline text="Paul Graham: Essays" description="Scraped feed provided by aaronsw.com" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" />
+      <outline text="Economic Times" description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
+      <outline text="Entrepreneur" description="The latest small business tips and advice from Entrepreneur" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" />
+      <outline text="Startup Stories - Mixergy" description="Business tips for startups by proven entrepreneurs" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" />
+      <outline text="Small Business Trends" description="Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent ..." xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" />
+      <outline text="Bloomberg Originals" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" />
+      <outline text="HBR IdeaCast" description="A weekly podcast featuring the leading thinkers in business and management." xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
+      <outline text="The Blog of Author Tim Ferriss" description="Tim Ferriss is the author of five #1 New York Times bestsellers and host of The Tim Ferriss Show podcast." xmlUrl="https://tim.blog/feed/" />
+      <outline text="The Growth Show" description="Starting a business has never been easier. But finding success in one has never been harder. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement. Host..." xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" />
+      <outline text="Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" />
+      <outline text="The Intercom Blog" description="Articles and Podcasts on Customer Service, AI and Automation, Product, and more" xmlUrl="https://www.intercom.com/blog/feed" />
+      <outline text="Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" />
+      <outline text="All News" xmlUrl="https://www.investing.com/rss/news.rss" />
+      <outline text="Fortune | FORTUNE" description="Fortune 500 Daily &amp; Breaking Business News" xmlUrl="https://fortune.com/feed" />
+      <outline text="Marie Forleo" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" />
+      <outline text="Entrepreneur" description="The latest small business tips and advice from Entrepreneur" xmlUrl="https://www.entrepreneur.com/rss-feed/latest" />
+      <outline text="McKinsey Insights &amp; Publications" description="McKinsey Insights &amp; Publications RSS Feeds" xmlUrl="https://www.mckinsey.com/insights/rss" />
+    </outline>
+    <outline text="History">
+      <outline text="30 for 30 Podcasts" description="Original audio documentaries from the makers of the acclaimed 30 for 30 film series, featuring stories from the world of sports and beyond. 30 for 30 offers captivating storytelling for sports fans an..." xmlUrl="https://feeds.megaphone.fm/ESP5765452710" />
+      <outline text="Dan Carlin&#39;s Hardcore History" description="In &#34;Hardcore History&#34; journalist and broadcaster Dan Carlin takes his &#34;Martian&#34;, unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What wo..." xmlUrl="https://feeds.feedburner.com/dancarlin/history?format=xml" />
+      <outline text="History in 28-minutes" description="We create a variety of exclusive modern international and American history content! We create free history audio podcasts as part of History in 28-minutes, a magazine called History is Now, and books ..." xmlUrl="https://www.historyisnowmagazine.com/blog?format=RSS" />
+      <outline text="HistoryNet" description="The most comprehensive and authoritative history site on the Internet." xmlUrl="http://www.historynet.com/feed" />
+      <outline text="The History Reader" description="A History Blog from St. Martin’s Press" xmlUrl="https://www.thehistoryreader.com/feed/" />
+      <outline text="You Must Remember This" description="You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century. It’s the brainchild and passion project of Karina Longworth (founder ..." xmlUrl="https://feeds.megaphone.fm/YMRT7068253588" />
+      <outline text="the memory palace" description="&lt;p&gt;the memory palace&lt;/p&gt;" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" />
+      <outline text="The History Blog" xmlUrl="https://www.thehistoryblog.com/feed" />
+      <outline text="World History Encyclopedia" description="The free online history encyclopedia with fact-checked articles, images, videos, maps, timelines and more; operated as a non-profit organization." xmlUrl="https://www.worldhistory.org/rss2" />
+      <outline xmlUrl="https://blogs.bl.uk/digitisedmanuscripts/atom.xml" />
+    </outline>
+    <outline text="News">
+      <outline text="BBC News" description="BBC News - World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
+      <outline text="CNN.com - RSS Channel - World" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition_world.rss" />
+      <outline text="International: Top News And Analysis" description="CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets." xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" />
+      <outline text="NDTV News-World-news" description="NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, heal..." xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" />
+      <outline text="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" />
+      <outline text="Top stories - Google News" description="Google News" xmlUrl="https://news.google.com/rss" />
+      <outline text="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major inter..." xmlUrl="http://feeds.washingtonpost.com/rss/world" />
+      <outline text="World News" description="A place for major news from around the world, excluding US-internal news." xmlUrl="https://www.reddit.com/r/worldnews/.rss" />
+      <outline text="World News Today, Trending World News, Latest International News, World Breaking News - Times of India" description="World News Today: Read the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" />
+      <outline text="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world&#39;s leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" />
+    </outline>
+    <outline text="Programming">
+      <outline text="Better Programming - Medium" description="Advice for programmers. - Medium" xmlUrl="https://medium.com/feed/better-programming" />
+      <outline text="Etsy Engineering | Code as Craft" description="The engineers who make Etsy make our living with a craft we love: software. This is where we&#39;ll write about our craft and our collective experience building and running the world&#39;s most vibrant handma..." xmlUrl="https://codeascraft.com/feed/atom/" />
+      <outline text="CodeNewbie" description="The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and i..." xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" />
+      <outline text="Coding Horror" description="programming and human factors" xmlUrl="https://feeds.feedburner.com/codinghorror" />
+      <outline text="overreacted — A blog by Dan Abramov" description="A personal blog by Dan Abramov" xmlUrl="https://overreacted.io/rss.xml" />
+      <outline text="Developer Tea" description="Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.&#xA;&#xA;With over 13 million downloads t..." xmlUrl="https://feeds.simplecast.com/dLRotFGk" />
+      <outline text="FLOSS Weekly (Audio)" description="We&#39;re not talking dentistry here; FLOSS is all about Free Libre Open Source Software. Join host Doc Searls and his rotating panel of co-hosts as they talk with the most interesting and important peopl..." xmlUrl="https://feeds.twit.tv/floss.xml" />
+      <outline text="Engineering at Meta" description="Engineering at Meta Blog" xmlUrl="https://engineering.fb.com/feed/" />
+      <outline text="Google Developers Blog" description="Updates on changes and additions to the Google Developers Blog." xmlUrl="http://feeds.feedburner.com/GDBcode" />
+      <outline text="Google TechTalks" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks" />
+      <outline text="HackerNoon.com - Medium" description="Elijah McClain, George Floyd, Eric Garner, Breonna Taylor, Ahmaud Arbery, Michael Brown, Oscar Grant, Atatiana Jefferson, Tamir Rice, Bettie Jones, Botham Jean - Medium" xmlUrl="https://medium.com/feed/hackernoon" />
+      <outline text="Hanselminutes with Scott Hanselman" description="Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists." xmlUrl="https://feeds.simplecast.com/gvtxUiIf" />
+      <outline text="InfoQ" description="InfoQ feed" xmlUrl="https://feed.infoq.com" />
+      <outline text="Instagram Engineering - Medium" description="Stories from the people who build @Instagram - Medium" xmlUrl="https://instagram-engineering.com/feed/" />
+      <outline text="Java, SQL and jOOQ." description="Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what&#39;s behind developing jOOQ." xmlUrl="https://blog.jooq.org/feed" />
+      <outline text="The JetBrains Blog" description="Developer Tools for Professionals and Teams" xmlUrl="https://blog.jetbrains.com/feed" />
+      <outline text="Joel on Software" xmlUrl="https://www.joelonsoftware.com/feed/" />
+      <outline text="Martin Fowler" description="Master feed of news and updates from martinfowler.com" xmlUrl="https://martinfowler.com/feed.atom" />
+      <outline text="Podcast Archives - Software Engineering Daily" description="Technical interviews about software topics." xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" />
+      <outline text="Posts on &amp;&gt; /dev/null" description="Recent content in Posts on &amp;&gt; /dev/null" xmlUrl="https://www.thirtythreeforty.net/posts/index.xml" />
+      <outline text="Prezi Engineering - Medium" description="The things we learn as we build our products - Medium" xmlUrl="https://engineering.prezi.com/feed" />
+      <outline text="Programming Throwdown" description="Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to ..." xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" />
+      <outline text="Programming Archives - The Crazy Programmer" description="Programming, Design and Development" xmlUrl="https://www.thecrazyprogrammer.com/category/programming/feed" />
+      <outline text="Robert Heaton | Blog" description="Software engineer. One-track lover down a two-way lane" xmlUrl="https://robertheaton.com/feed.xml" />
+      <outline text="Scott Hanselman&#39;s Blog" description="Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General" xmlUrl="http://feeds.hanselman.com/ScottHanselman" />
+      <outline text="Scripting News" description="Dave Winer, OG blogger, podcaster, developed first apps in many categories. Old enough to know better. It&#39;s even worse than it appears." xmlUrl="http://scripting.com/rss.xml" />
+      <outline text="Engineering at Slack" description="Hear directly from Slack&#39;s engineers about what we build, why and how we build it, and how you can use it." xmlUrl="https://slack.engineering/feed" />
+      <outline text="Software Defined Talk" description="Get ready for a weekly dose of all things Enterprise Software and Cloud Computing! Join us as we dive into topics including Kubernetes, DevOps, Serverless, Security and Coding. Plus, we’ll keep you ..." xmlUrl="https://feeds.fireside.fm/sdt/rss" />
+      <outline text="Software Engineering Radio - The Podcast for Professional Software Developers" description="Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Every 10 days, a new episode is published tha..." xmlUrl="http://feeds.feedburner.com/se-radio" />
+      <outline text="SoundCloud Backstage Blog" description="SoundCloud&#39;s developer blog." xmlUrl="https://developers.soundcloud.com/blog/blog.rss" />
+      <outline text="Stack Overflow Blog" description="Essays, opinions, and advice on the act of computer programming from Stack Overflow." xmlUrl="https://stackoverflow.blog/feed/" />
+      <outline text="The 6 Figure Developer" description="Helping others reach their potential" xmlUrl="http://6figuredev.com/feed/rss/" />
+      <outline text="The Airbnb Tech Blog - Medium" description="Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" />
+      <outline text="The Cynical Developer" description="A UK based Technology and Software Developer Podcast that helps you to improve your development knowledge and career,&#xA;through explaining the latest and greatest in development technology and providing..." xmlUrl="https://cynicaldeveloper.com/feed/podcast" />
+      <outline text="The GitHub Blog" description="Updates, ideas, and inspiration from GitHub to help developers build and design software." xmlUrl="https://github.blog/feed/" />
+      <outline text="The PIT Show: Reflections and Interviews in the Tech World" description="This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done." xmlUrl="https://feeds.transistor.fm/productivity-in-tech-podcast" />
+      <outline text="The Rabbit Hole: The Definitive Developer&#39;s Podcast" description="Welcome to The Rabbit Hole, the definitive developers podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just..." xmlUrl="http://therabbithole.libsyn.com/rss" />
+      <outline text="The Stack Overflow Podcast" description="For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a software developer and how the art and practice of programming is changing our world. From Rails to Rea..." xmlUrl="https://feeds.simplecast.com/XA_851k3" />
+      <outline text="The Women in Tech Show: A Technical Podcast" description="A podcast about what we work on, not what it feels like to be a woman in tech.&#xD;&#xA;Hosted by Edaena Salinas, Software Engineer at Microsoft.&#xD;&#xA;Website: wit.fm" xmlUrl="https://thewomenintechshow.com/category/podcast/feed/" />
+      <outline text="programming" description="Computer Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" />
+      <outline text="Go (Golang) Programming Blog - Ardan Labs on" description="Recent content in Go (Golang) Programming Blog - Ardan Labs on" xmlUrl="https://www.ardanlabs.com/blog/index.xml" />
+      <outline text="Netflix TechBlog - Medium" description="Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium" xmlUrl="https://netflixtechblog.com/feed" />
+      <outline text="Golang News" description="Jobs, Code, Videos and News for Go hackers - everything about the go programming language" xmlUrl="https://golangnews.com/index.xml" />
+      <outline text="Golang Weekly" description="A weekly newsletter about the Go programming language" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" />
+      <outline text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" />
+      <outline text="The Codist" description="Four Decades Of Learning, Experiences, And Adventures" xmlUrl="https://thecodist.com/rss/" />
+      <outline text="Stack Overflow Blog" description="Essays, opinions, and advice on the act of computer programming from Stack Overflow." xmlUrl="https://stackoverflow.blog/feed" />
+      <outline text="Google Developers Blog" description="Updates on changes and additions to the Google Developers Blog." xmlUrl="https://developers.googleblog.com/rss/" />
+      <outline text="The latest from GitHub&#39;s engineering team - The GitHub Blog" description="Updates, ideas, and inspiration from GitHub to help developers build and design software." xmlUrl="https://github.blog/engineering/feed/" />
+      <outline text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" />
+      <outline text="The Solopreneur Blog" description="Stories and essays of a solopreneurs&#39; journey" xmlUrl="https://thesolopreneur.blog/rss/feed.xml" />
+      <outline text="Eric Fritz" description="Recent content on Eric Fritz" xmlUrl="https://eric-fritz.com//index.xml" />
+      <outline text="research!rsc" xmlUrl="https://research.swtch.com/feed.atom" />
+      <outline text="kokada" description="# dd if=/dev/urandom of=/dev/brain0&#xA;dd: error writing &amp;#39;/dev/brain0&amp;#39;: No space left on device" xmlUrl="https://kokada.capivaras.dev/rss/" />
+      <outline text="Vitalik Buterin&#39;s website" description="Vitalik Buterin&#39;s website" xmlUrl="https://vitalik.eth.limo/feed.xml" />
+      <outline text="VictoriaMetrics: Simple &amp; Reliable Monitoring for Everyone on VictoriaMetrics" description="Recent content in VictoriaMetrics: Simple &amp; Reliable Monitoring for Everyone on VictoriaMetrics" xmlUrl="https://victoriametrics.com/index.xml" />
+      <outline text="zkintro" description="An Introduction to Zero Knowledge Proofs And Their Applications" xmlUrl="https://zkintro.com/feed.xml" />
+      <outline text="eieio.games" description="A blog about weird games, internet social experiments, and other stupid things I make my computer do." xmlUrl="http://eieio.games/feed.xml" />
+    </outline>
+    <outline text="Science">
+      <outline text="FlowingData" description="Strength in Numbers" xmlUrl="https://flowingdata.com/feed" />
+      <outline text="The Infinite Monkey Cage" description="&lt;p&gt;Professor Brian Cox and Robin Ince host a witty, irreverent look at the world through scientists’ eyes. Joined by a panel of scientists, experts and celebrity science enthusiasts they investigate..." xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" />
+      <outline text="Discovery" description="&lt;p&gt;Explorations in the world of science.&lt;/p&gt;" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" />
+      <outline text="TED Talks Daily (SD video)" description="TED is a nonprofit devoted to ideas worth spreading. On this video feed, you&#39;ll find TED Talks to inspire, intrigue and stir the imagination from some of the world&#39;s leading thinkers and doers, speaki..." xmlUrl="https://pa.tedcdn.com/feeds/talks.rss" />
+      <outline text="Latest from Space" description="" xmlUrl="https://www.space.com/feeds/all" />
+      <outline text="Scientific American Content: Global" description="Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives." xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" />
+      <outline text="Space | The Guardian" description="Latest news and features from theguardian.com, the world&#39;s leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" />
+      <outline text="SpaceX" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" />
+      <outline text="BBC News" description="BBC News - Science &amp; Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" />
+      <outline text="Nature" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science an..." xmlUrl="https://www.nature.com/nature.rss" />
+      <outline text="Science-Based Medicine" description="Exploring issues and controversies in the relationship between science and medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" />
+      <outline text="This Week in Science – The Kickass Science Podcast" description="The kickass science and technology radio show that delivers an irreverent look at the week in science and technology." xmlUrl="http://www.twis.org/feed/" />
+      <outline text="Science Latest" description="Channel Description" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" />
+      <outline text="Shirtloads of Science" description="Dr Karl’s a curious optimist – a great combination for a science lover. Join him and his guests for weird facts, amazing conversation and remember, it’s never too late for a happy childhood. &#xD;&#xA;h..." xmlUrl="https://shirtloadsofscience.libsyn.com/rss" />
+      <outline text="60-Second Science" description="Tune in every weekday for quick reports and commentaries on the world of science—it&#39;ll just take a minute" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" />
+      <outline text="Gastropod" description="Food with a side of science and history. Every other week, co-hosts Cynthia Graber and Nicola Twilley serve up a brand new episode exploring the hidden history and surprising science behind a differen..." xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" />
+      <outline text="Phys.org - latest science and technology news stories" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine." xmlUrl="https://phys.org/rss-feed/" />
+      <outline text="Radiolab" description="Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers. A given episode might whirl you through science, legal history, and into the home of someo..." xmlUrl="http://feeds.wnyc.org/radiolab" />
+      <outline text="NASA" description="Official National Aeronautics and Space Administration Website" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" />
+      <outline text="New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" />
+      <outline text="/r/space: news, articles and discussion" description="Share &amp; discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" />
+      <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" />
+      <outline text="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" />
+      <outline text="Probably Science" description="Professional comedians with so-so STEM pedigrees take you through this week in science. Incompetently. Featuring hosts Matt Kirshen, Andy Wood (and sometimes Jesse Case or Brooks Wheelan) along with a..." xmlUrl="https://probablyscience.libsyn.com/rss" />
+      <outline text="Reddit Science" description="This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publicati..." xmlUrl="https://reddit.com/r/science/.rss" />
+      <outline text="Sawbones: A Marital Tour of Misguided Medicine" description="Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we&#39;ve tried to fix people." xmlUrl="https://feeds.simplecast.com/y1LF_sn2" />
+      <outline text="Science Vs" description="There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet that finds out what’s fact, what’s not, and what’s somewhere in between. We do ..." xmlUrl="http://feeds.gimletmedia.com/ScienceVs" />
+      <outline text="Blog – Hackaday" description="Fresh hacks every day" xmlUrl="https://hackaday.com/blog/feed/" />
+    </outline>
+    <outline text="Tech">
+      <outline text="Accidental Tech Podcast" description="Three nerds discussing tech, Apple, programming, and loosely related matters." xmlUrl="https://atp.fm/rss" />
+      <outline text="Analog(ue)" description="So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse.&#xD;&#xA; Hosted by Casey Liss a..." xmlUrl="https://www.relay.fm/analogue/feed" />
+      <outline text="Ars Technica - All content" description="All Ars Technica stories" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" />
+      <outline text="CNET" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" />
+      <outline text="CNET" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" />
+      <outline text="Clockwise" description="Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we&#39;re always ..." xmlUrl="https://www.relay.fm/clockwise/feed" />
+      <outline text="Gizmodo" description="The Future Is Here" xmlUrl="https://gizmodo.com/rss" />
+      <outline text="Hacker News" description="Links for the intellectually curious, ranked by readers." xmlUrl="https://news.ycombinator.com/rss" />
+      <outline text="Lifehacker" description="Do everything better." xmlUrl="https://lifehacker.com/rss" />
+      <outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" />
+      <outline text="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" />
+      <outline text="Mashable" description="Mashable is a leading source for news, information &amp; resources for the Connected Generation. Mashable reports on the importance of digital&#xD;&#xA;innovation and how it empowers and inspires people around th..." xmlUrl="http://feeds.mashable.com/Mashable" />
+      <outline text="Reply All" description="&#34;&#39;A podcast about the internet&#39; that is actually an unfailingly original exploration of modern life and how to survive it.&#34; - The Guardian. Hosted by Alex Goldman and Emmanuel Dzotsi from Gimlet." xmlUrl="https://feeds.megaphone.fm/replyall" />
+      <outline text="Rocket" description="Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort had accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Ch..." xmlUrl="https://www.relay.fm/rocket/feed" />
+      <outline text="Slashdot" description="News for nerds, stuff that matters" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" />
+      <outline text="Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="http://stratechery.com/feed/" />
+      <outline text="Crunch Hype" description="Tech Crunch is a free Digital Marketing Site. The main goal of this site is to provide quality tutorials, tips, courses, tools and other resources that allows anyone to work online and master digital ..." xmlUrl="http://feeds.feedburner.com/TechCrunch" />
+      <outline text="The Keyword" description="The Keyword" xmlUrl="https://www.blog.google/rss/" />
+      <outline text="The Verge" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheVerge" />
+      <outline text="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" />
+      <outline text="The Vergecast" description="The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel and David Pierce hang out and make sense of the week’s ..." xmlUrl="https://feeds.megaphone.fm/vergecast" />
+      <outline text="This Week in Tech (Audio)" description="This Week in Tech is the top-ranked flagship tech podcast from TWiT.tv. Every Sunday, Leo Laporte and a roundtable of insiders explore the week&#39;s hottest tech news from AI to robots, and PCs to privac..." xmlUrl="https://feeds.twit.tv/twit.xml" />
+      <outline text="Unbox Therapy" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=unboxtherapy" />
+      <outline text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" description="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" xmlUrl="https://www.engadget.com/rss.xml" />
+    </outline>
+  </body>
+</opml>
